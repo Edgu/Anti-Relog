@@ -4,11 +4,11 @@ import java.io.IOException;
 import java.lang.reflect.Field;
 
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_5_R3.CraftServer;
+import org.bukkit.craftbukkit.v1_6_R1.CraftServer;
 
-import net.minecraft.server.v1_5_R3.Connection;
-import net.minecraft.server.v1_5_R3.NetworkManager;
-import net.minecraft.server.v1_5_R3.Packet;
+import net.minecraft.server.v1_6_R1.Connection;
+import net.minecraft.server.v1_6_R1.NetworkManager;
+import net.minecraft.server.v1_6_R1.Packet;
 
 /**
 *
