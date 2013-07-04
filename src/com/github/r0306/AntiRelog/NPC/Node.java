@@ -3,11 +3,11 @@ package com.github.r0306.AntiRelog.NPC;
 import java.util.ArrayList;
 import java.util.List;
 
-import net.minecraft.server.v1_5_R3.AxisAlignedBB;
+import net.minecraft.server.v1_6_R1.AxisAlignedBB;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
-import org.bukkit.craftbukkit.v1_5_R3.CraftWorld;
+import org.bukkit.craftbukkit.v1_6_R1.CraftWorld;
 
 public class Node
 {
