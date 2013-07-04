@@ -1,14 +1,14 @@
 package com.github.r0306.AntiRelog.NPC;
 
-import net.minecraft.server.v1_5_R3.Entity;
-import net.minecraft.server.v1_5_R3.EntityHuman;
-import net.minecraft.server.v1_5_R3.EntityPlayer;
-import net.minecraft.server.v1_5_R3.EnumGamemode;
-import net.minecraft.server.v1_5_R3.PlayerInteractManager;
-import net.minecraft.server.v1_5_R3.WorldServer;
+import net.minecraft.server.v1_6_R1.Entity;
+import net.minecraft.server.v1_6_R1.EntityHuman;
+import net.minecraft.server.v1_6_R1.EntityPlayer;
+import net.minecraft.server.v1_6_R1.EnumGamemode;
+import net.minecraft.server.v1_6_R1.PlayerInteractManager;
+import net.minecraft.server.v1_6_R1.WorldServer;
 
-import org.bukkit.craftbukkit.v1_5_R3.CraftServer;
-import org.bukkit.craftbukkit.v1_5_R3.entity.CraftEntity;
+import org.bukkit.craftbukkit.v1_6_R1.CraftServer;
+import org.bukkit.craftbukkit.v1_6_R1.entity.CraftEntity;
 import org.bukkit.event.entity.EntityTargetEvent;
 
 /**
