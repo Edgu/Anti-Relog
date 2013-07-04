@@ -1,8 +1,8 @@
 package com.github.r0306.AntiRelog.NPC;
 
-import net.minecraft.server.v1_5_R3.EntityPlayer;
-import net.minecraft.server.v1_5_R3.Packet18ArmAnimation;
-import net.minecraft.server.v1_5_R3.WorldServer;
+import net.minecraft.server.v1_6_R1.EntityPlayer;
+import net.minecraft.server.v1_6_R1.Packet18ArmAnimation;
+import net.minecraft.server.v1_6_R1.WorldServer;
 
 import org.bukkit.Location;
 import org.bukkit.Material;
